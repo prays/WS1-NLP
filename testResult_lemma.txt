@@ -1,0 +1,198 @@
+kata	tag
+jenis	NN
+monyet	NN
+yang	SC
+dikerahkan	VB
+pemkot	NNP
+badan	NNP
+besar	JJ
+,	Z
+ekor	NND
+panjang	
+,	Z
+dan	CC
+milik	VB
+wajah	NN
+warna	VB
+hitam	JJ
+.	
+kedua	
+orang	
+kaya	NN
+dunia	NN
+itu	PR
+sudah	
+hasil	NN
+bujuk	VB
+banyak	CD
+orang	NND
+yang	SC
+sangat	RB
+kaya	
+di	IN
+amerika	
+agar	SC
+sumbang	VB
+paruh	CD
+kaya	NN
+mereka	PRP
+.	
+hanya	RB
+butuh	
+enam	CD
+tahun	
+bagi	IN
+zuckerberg	NNP
+untuk	IN
+bisa	MD
+capai	VB
+sukses	NN
+seperti	IN
+sekarang	NN
+ini	PR
+,	
+telah	SC
+belum	SC
+-nya	PRP
+dia	PRP
+luncur	
+situs	NN
+ini	PR
+saat	
+masih	MD
+duduk	
+bagai	IN
+mahasiswa	
+di	IN
+universitas	
+harvard	NNP
+.	Z
+jamrud	NNP
+itu	PR
+akhir	
+sampai	IN
+ke	IN
+amerika	
+,	Z
+meski	SC
+tiba	VB
+di	IN
+amerika	
+tidak	NEG
+jelas	
+siapa	WH
+milik	VB
+-nya	PRP
+.	Z
+sejumlah	
+surat kabar	
+brasil	NNP
+lapor	NN
+tiririca	NNP
+-	Z
+sama	IN
+seperti	IN
+satu	CD
+dari	IN
+puluh	CD
+warga	
+brasil	NNP
+buta aksara	JJ
+.	
+universitas	NNP
+indonesia 	
+adalah 	
+kampus 	
+modern	
+,	
+komprehensif	JJ
+,	
+buka	VB
+,	Z
+multibudaya	
+,	
+dan	CC
+humanis	
+yang	
+cakup	VB
+disiplin	NN
+ilmu	NN
+yang	SC
+luas	NNP
+.	Z
+di	IN
+korea	
+selatan	NNP
+,	Z
+wings	
+jadi	
+album	
+laris	
+di	
+sejarah	
+gaon	
+album	
+chart	
+pada	
+waktu	NN
+itu	PR
+.	
+google	
+didirikan	
+oleh	IN
+larry	
+page	
+dan	
+sergey	
+brin	
+saat	
+masih	MD
+mahasiswa	
+ph.d.	
+di	
+universitas	
+stanford	
+.	
+berhubung	
+monyet	
+adalah	VB
+satwa	NNP
+dilindungi	VB
+di	IN
+india	
+,	Z
+para	DT
+jaga	
+di	IN
+taj	
+mahal	
+buat	
+tangan	NN
+agar	SC
+tidak	NEG
+ganggu	
+kunjung	NN
+.	Z
+salah	VB
+satunya	
+adalah	
+takut	JJ
+nakutinya	
+dengan	
+ketapel	
+.	
+tak	NNP
+cuma	RB
+di	
+taj	
+mahal	
+,	
+kawan	NN
+monyet	NN
+juga	RB
+mulai	
+agresif	JJ
+di	
+new	
+delhi	NNP
+.	Z

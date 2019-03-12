@@ -1,0 +1,198 @@
+kata	tag
+jenis	NN
+monyet	NN
+yang	SC
+dikerahkan	VB
+pemkot	NNP
+berbadan	VB
+besar	JJ
+,	Z
+berekor	
+panjang	
+,	Z
+dan	CC
+memiliki	VB
+wajah	NN
+berwarna	VB
+hitam	JJ
+.	Z
+kedua	CD
+orang	NN
+terkaya	JJ
+dunia	NN
+itu	PR
+sudah	MD
+berhasil	VB
+membujuk	VB
+banyak	CD
+orang	NN
+yang	SC
+sangat	RB
+kaya	JJ
+di	IN
+amerika	NNP
+agar	SC
+menyumbangkan	VB
+separuh	CD
+kekayaan	NN
+mereka	PRP
+.	Z
+hanya	RB
+butuh	VB
+enam	CD
+tahun	NN
+bagi	IN
+zuckerberg	NNP
+untuk	IN
+bisa	MD
+mencapai	VB
+kesuksesan	NN
+seperti	IN
+sekarang	NN
+ini	PR
+,	Z
+setelah	SC
+sebelum	SC
+-nya	PRP
+dia	PRP
+meluncurkan	VB
+situs	NN
+ini	PR
+saat	NN
+masih	MD
+duduk	VB
+sebagai	IN
+mahasiswa	NN
+di	IN
+universitas	NNP
+harvard	NNP
+.	Z
+jamrud	NNP
+itu	PR
+akhirnya	RB
+sampai	SC
+ke	IN
+amerika	NNP
+,	Z
+meskipun	SC
+setibanya	
+di	
+amerika	NNP
+tidak	NEG
+jelas	JJ
+siapa	SC
+pemilik	NN
+-nya	PRP
+.	Z
+sejumlah	CD
+surat kabar	NN
+brasil	NNP
+melaporkan	VB
+tiririca	NNP
+-	Z
+sama	JJ
+seperti	IN
+satu	CD
+dari	IN
+sepuluh	CD
+warga	NN
+brasil	NNP
+buta aksara	JJ
+.	Z
+universitas	NNP
+indonesia 	
+adalah 	
+kampus 	
+modern	
+,	Z
+komprehensif	JJ
+,	Z
+terbuka	VB
+,	Z
+multibudaya	
+,	
+dan	CC
+humanis	
+yang	
+mencakup	VB
+disiplin	NN
+ilmu	NN
+yang	SC
+luas	NNP
+.	Z
+di	IN
+korea	NNP
+selatan	NNP
+,	Z
+wings	
+menjadi	
+album	
+terlaris	
+di	
+sejarah	NN
+gaon	
+album	
+chart	
+pada	
+waktu	NN
+itu	PR
+.	Z
+google	
+didirikan	
+oleh	IN
+larry	
+page	
+dan	
+sergey	
+brin	
+saat	
+masih	MD
+mahasiswa	NN
+ph.d.	
+di	
+universitas	NNP
+stanford	
+.	
+berhubung	
+monyet	
+adalah	VB
+satwa	NNP
+dilindungi	VB
+di	IN
+india	NNP
+,	Z
+para	DT
+penjaga	NN
+di	IN
+taj	
+mahal	
+membuat	VB
+penanganan	NN
+agar	SC
+tidak	NEG
+mengganggu	VB
+pengunjung	
+.	
+salah	JJ
+satunya	
+adalah	
+menakut	
+nakutinya	
+dengan	
+ketapel	
+.	
+tak	NEG
+cuma	RB
+di	IN
+taj	
+mahal	
+,	Z
+kawanan	NN
+monyet	NN
+juga	RB
+mulai	VB
+agresif	JJ
+di	IN
+new	NNP
+delhi	NNP
+.	Z
